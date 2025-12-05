@@ -142,7 +142,7 @@ hardware-debug-assistant/
 ├── tsconfig.json
 └── README.md
 ```
-
+NOTE: json configurations are taken from related resources [can be easily looked up], including Cloudflare, and are not directly added to this repo.
 ---
 
 ## 🛠️ Key Implementation Details
